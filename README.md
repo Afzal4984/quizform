@@ -4,10 +4,10 @@
 QuizForm is a Node.js-based web application that allows users to create, take, and manage quizzes. It uses Express.js for the backend, EJS for templating, and MongoDB for data storage.
 
 ## Features
-- User authentication (login and signup)
-- Quiz creation and management
-- Dynamic form handling
-- Real-time quiz results
+- User authentication (login and signup).
+- Quiz creation and management.
+- Dynamic form handling.
+- Real-time quiz results.
 - Session handling with Express-Session
 - MongoDB database integration with Mongoose
 - Flash messaging using Express-Flash
